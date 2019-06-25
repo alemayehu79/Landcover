@@ -1,3 +1,3 @@
-# Landcover
-Explanation....
-This repo contains x y z.....
+# Land USe Land Cover Data (MODIS)
+
+MODIS Land cover data 
